@@ -40,7 +40,7 @@ const Consumer = () => {
         <div className="container donar-data">
           <table className="table table-hover">
             <thead>
-              <tr>
+              <tr className="heading-fixed">
                 <th scope="col">Blood Group</th>
                 <th scope="col">Inventory Type</th>
                 <th scope="col">Quantity</th>
